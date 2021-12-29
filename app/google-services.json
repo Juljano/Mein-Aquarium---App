@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890638929239",
+    "firebase_url": "https://findmestore-1578098979592.firebaseio.com",
+    "project_id": "findmestore-1578098979592",
+    "storage_bucket": "findmestore-1578098979592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890638929239:android:94d5e43e7af5ac01f70212",
+        "android_client_info": {
+          "package_name": "de.juljano.myaquarium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890638929239-rgq8vj3kqfsnt9r6hbn3ttj33olvlu6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.juljano.myaquarium",
+            "certificate_hash": "53c43f4be70f231d46fa8d659f5310f2c84ec358"
+          }
+        },
+        {
+          "client_id": "890638929239-ss6vr8o86lhpvvf895lbvmn50i3sv549.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80Yo66nr66qeFXs1iZDigiomsRr9eLYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890638929239-hrs92m1f9f1qmt3105mmb1n5b6fosb5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
