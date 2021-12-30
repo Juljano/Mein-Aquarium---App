@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Aquarium</string>
+    <string name="temperatur">Aktuelle Temp:</string>
+    <string name="tds">Aktueller TDS</string>
+    <string name="pH">Aktueller pH</string>
+    <string name="lightStatus">Beleuchtung</string>
+    <string name="wattage">Watt</string>
+
 </resources>
